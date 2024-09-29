@@ -78,14 +78,11 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/44fbcd5e-0c8f-486e-806e-9486a3eed64f)
-![image](https://github.com/user-attachments/assets/c3242ecb-c5ce-4d83-a616-b97e31348be5)
-![image](https://github.com/user-attachments/assets/49b5e62d-6307-49c7-9211-6f4d737528ab)
-![image](https://github.com/user-attachments/assets/e8726cb6-9c4d-45f8-8407-417d3b569906)
-![image](https://github.com/user-attachments/assets/1b320c86-abef-4afa-aa8e-667e1567b88a)
-![image](https://github.com/user-attachments/assets/daf28e3a-c969-4b1b-bec0-a7a0c6ba499f)
-![image](https://github.com/user-attachments/assets/09006691-876f-4f58-b9eb-5e7e35a18ef5)
-![image](https://github.com/user-attachments/assets/38b05c78-de97-4857-8996-9c9e74873224)
-![image](https://github.com/user-attachments/assets/bd72e8fe-d3bf-4041-b097-5d16f4e911f1)
+![WhatsApp Image 2024-09-02 at 10 51 51_ff01643d](https://github.com/user-attachments/assets/1cb75479-d766-4a19-afb4-b4052f06ab39)
+![WhatsApp Image 2024-09-02 at 10 52 54_19a869d4](https://github.com/user-attachments/assets/6b447b37-d74a-4a1a-80bb-8ee9ad4985d3)
+
+![WhatsApp Image 2024-09-02 at 10 51 52_baadf86c](https://github.com/user-attachments/assets/db82b480-1015-49b4-8cd9-12c0f15d9f6e)
+
+![WhatsApp Image 2024-09-02 at 10 51 47_1459f905](https://github.com/user-attachments/assets/5b82a600-d1d5-418b-9774-f57486112d2c)
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
